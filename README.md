@@ -2,4 +2,4 @@
 ESP32 for Lua
 
 
-！[images](ESP32-Joystick / doc /example_1.jpg)
+![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/example_1.jpg)
