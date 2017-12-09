@@ -33,7 +33,7 @@ I hope everyone go to this site to learn more
   ·Very good, you can install it when you download it. (Before installation, it is best to first close the window of esptool) But here there will be some minor troubles need to pay attention Oh. When you install to the middle, which is the following legend, the mouse pulled to the bottom will find there is a fork. Do not worry, right click on the first option popped up: Wil be install on local hard drive, OK. 
   ![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/Screenshot_2.png)
   Then open estool, enter the python -v legend as follows
-  ![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/Screenshot_4.jpg)
+  ![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/Screenshot_4.png)
   ·This time has entered the Python interface, but this time we do not use the Python language development. So we have to exit this interface. Have you ever panicked to my first encounter with this interface? Hey, do not worry, just hit quit () can go back.
 
  # 3.Once you have Python installed and have downloaded esp32tool.zip, extract esp32tool.zip, then open a terminal window or command line to the directory you extracted esp32tool.zip into.
@@ -45,7 +45,6 @@ I hope everyone go to this site to learn more
  # 5.Then run the command below, but make sure to set your serial port to the correct port your ESP32.
  esptool.py --port COM7 write_flash 0x1000 bootloader.bin 0x10000 NodeMCU-esp32-adc-bit-bluetooth-can-dht-i2c-ledc-u8g2-ws2812.bin 0x8000 partitions_singleapp.bin
  
- # 
 ![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/example_1.jpg)
 
 ![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/example_2.jpg)
