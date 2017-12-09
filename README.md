@@ -1,5 +1,7 @@
 # ESP32-Joystick-Loa
 
+![images](https://github.com/LilyGO/ESP32-Joystick/blob/master/doc/example_1.jpg)
+
 Thanks for learning this project from the following website. Life-long learning
 
 # Thanks to John Lauer for setting up a tutorial on the YouTube environment:
