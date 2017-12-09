@@ -1,0 +1,1 @@
+dofile('joystick_test.lc')
