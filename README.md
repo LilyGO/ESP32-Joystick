@@ -1,15 +1,14 @@
 # ESP32-Joystick-Loa
 
-
-# Thanks to John Lauer for setting up a tutorial on the YouTube environment:
+Thanks to John Lauer for setting up a tutorial on the YouTube environment:
 # https://www.youtube.com/watch?v=njAeHfoVIoY
 
-# Tutorials on LUA Joystick routines 
+Tutorials on LUA Joystick routines 
 # https://www.youtube.com/watch?v=ITgh5epyPRk&t=305s
-# May you be healthy
+May you be healthy
 
-# Thanks http://chilipeppr.com/esp32 website
-# I hope everyone go to this site to learn more
+Thanks http://chilipeppr.com/esp32 website
+I hope everyone go to this site to learn more
 
  # 1.How do i use this?
    ·Dowload the serial-port-json-server-1.95_windows_amd64.zip.My firmware folder can be packaged to download.
